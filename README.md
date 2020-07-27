@@ -3,6 +3,6 @@
  New Brach
 * New commit
 
-Prtected commit
+Protected commit
  *New
-  
+ 
